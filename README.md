@@ -1,6 +1,5 @@
-# Awesome Developer Portfolio 🚀
 
-Welcome to my GitHub repository! 👋 I'm [Your Name], and I'm passionate about crafting clean, efficient, and creative solutions in the world of technology. Below, you'll find a glimpse of my skills and expertise, showcased in the form of badges and emojis.
+Welcome to my GitHub! 👋 I'm Abhijay, and I'm passionate about crafting clean, efficient, and creative solutions in the world of technology. Below, you'll find a glimpse of my skills and expertise.
 
 ## 🌟 Skills Showcase
 
