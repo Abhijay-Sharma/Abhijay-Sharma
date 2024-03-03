@@ -15,7 +15,7 @@ Welcome to my GitHub! 👋 I'm Abhijay, and I'm passionate about crafting clean,
 ![SQL](https://img.shields.io/badge/SQL-Strong%20Knowledge-lightgrey?style=flat&logo=sql)
 
 ### Cybersecurity:
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-purple?style=flat&logo=security)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Novice-purple?style=flat&logo=security)
 
 ### Data Analysis and Visualization:
 ![Excel](https://img.shields.io/badge/Excel-Proficient-green?style=flat&logo=microsoft-excel)
