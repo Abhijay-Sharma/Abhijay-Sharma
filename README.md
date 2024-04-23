@@ -40,6 +40,6 @@ Welcome to my GitHub! 👋 I'm Abhijay, and I'm passionate about crafting clean,
 
 ## 📬 Let's Connect
 
-Feel free to explore my repositories and don't hesitate to reach out! Connect with me on [LinkedIn](https://www.linkedin.com/in/abhijay-sharma-60111626b/) for more professional interactions.
+Feel free to explore my repositories and don't hesitate to reach out! Connect with me on [LinkedIn](https://www.linkedin.com/in/abhijay-sharma07/) for more professional interactions.
 
 Happy coding! 🚀✨
